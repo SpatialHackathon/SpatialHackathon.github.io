@@ -2,57 +2,59 @@
 layout: page
 title: Home
 ---
-<img width="1239" alt="spacehack2_ishihara" src="https://github.com/SpatialHackathon/SpatialHackathon.github.io/assets/114547/be0d08d1-5dca-4931-bbb7-7c5686019e4c">
+
+<b>This website is currently a pre-release. The content may be inaccurate and change at any time.</b>
+
+<img width="1239" alt="spacehack3_logo" src="https://github.com/user-attachments/assets/ea8ea22a-f8ad-440d-bbd7-db9ac61696d7">
 
 <p align="center">
-⬤ <b>ELIXIR-Germany 2nd BioHackathon</b> ⬤ <b> 11-15 December 2023</b> ⬤ <b>Bielefeld, Germany</b> ⬤ <b>Hybrid event</b> ⬤
+⬤ <b>SpaceHack 3.0 </b> ⬤ <b> 9-11 December 2024</b> ⬤ <b>Berlin|Germany (... Adelaide|Australia & Boston|USA)</b> ⬤ <b>Hybrid event</b> ⬤
 </p>
 <p align="center">
-  <b><a href="https://www.denbi.de/helpdesk?option=com_rsform&view=rsform&formId=7">>> Register here <<</a></b>
+  <b><a href="[https://www.denbi.de/helpdesk?option=com_rsform&view=rsform&formId=7](https://forms.gle/SGXco5U2gVkP8p4x7)">>> Register here <<</a></b>
 </p>
+
+<b>This website is currently a pre-release. The content may be inaccurate and change at any time.</b>
 
 ### Abstract
 
-Spatially resolved transcriptomics allows us to resolve gene expression in the native tissue context. We are seeing an explosion in the number of tools being developed for downstream analysis and an emergence of datasets that are routinely used to evaluate the quality of new tools, however, we currently lack a community-driven continuous benchmarking of spatially resolved transcriptomics tools. A recent article in Nature highlights the need to address this issue via implementation of benchmarking via the OpenEBench and OMNIBENCHMARK platforms. These platforms provide a framework for curating computational tools and reference datasets for data, with a view towards extensibility as new computational approaches emerge.
+Spatially resolved transcriptomics allows us to resolve gene expression in the native tissue context. Imagning-based spatial transcriptomics methods offer unrivalled spatial resolution, however clear and agreed-upon data processing and analysis guides are lacking or fragmented. SpaceHack 3.0 aims to investigate and improve on the currently available information to help users make sense of their valuable data. 
 
 ### Project focus
 
-The focus of our BioHackathon project will be on:
+The focus of our BioHackathon project will be on investigate, reporting and improving on user guides for imaging-based spatial transcriptomic. The format will be a hackathon with a "bring your own project" set up. Not every needs to propose a project, but some ideas of things to address:
 
- - computational tools to identify tissue domains and niches, commonly referred to as spatial clustering (e.g. SpaGCN, BayesSpace)
- - reference datasets across technologies (e.g. Visum, Xenium, Slide-seq, MERFISH) and tissues (e.g. DLPFC, hippocampus, olfactory bulb, liver
- - investigating evaluation metric (e.g. ARI, NMI) with a focus on novel metrics and qualitative interpretation
- - community benchmarking via OMNIBENCHMARK
- - generalisability of models/results across batches
+ - writing user guides for data deposition
+ - collating and unifying steps within data analysis user guides
+ - investigating how people deal with normalisation
 
-While the primary aim of the project will be to have fun and meet other spatial researchers, we would endeavour to wrap up findings into publications. In the previous iteration of the SpaceHack project we attracted over 60 participants, and had a number of breakout projects that have preprints published on bioRxiv such as the SpatialData framework and the Xenium quality assessment study, with more on the way!
+While the primary aim of the project will be to have fun and meet other spatial researchers, we would endeavour to disseminate our findings. This year we plan to wrap up our progress into a [BioHackRxiv](https://osf.io/preprints/biohackrxiv) white paper.
 
 ### Organisational details
 
 **Target audience:** PhD/postdoc-level bioinformaticians familiar with spatial omics analysis. We would strongly encourage those with prior experience in spatial clustering/domain identification to apply! **This will not be a tutorial, so be ready to contribute ;p.**
 
-**Dates:** Monday 11th - Friday 15th December 2023
+**Dates:** Monday 9th - Wednesday 11th December 2024
 
-**Location:** [Bielefelder-Hof Hotel, Bielefed, Germany](https://bielefelder-hof.de/). The venue for the BioHackathon Germany - Hotel Bielefelder Hof - is located right in the centre of Bielefeld, opposite the main train station and therefore offers an optimal connection and location. For transport recommendations please check the [ELIXIR Germany event page](https://www.denbi.de/de-nbi-events/1547-biohackathon-germany-2).
+**Location:** [Rahel Hirsch Center, 65 Luissenstrasse, 10117 Berlin, Germany]([https://bielefelder-hof.de/](https://www.google.com/maps/place/Luisenstra%C3%9Fe+65,+10115+Berlin/@52.526864,13.376844,16z/data=!3m1!4b1!4m6!3m5!1s0x47a851ead44e366b:0xa6f8722630c14a29!8m2!3d52.526864!4d13.3794189!16s%2Fg%2F11c26_hb91?entry=ttu&g_ep=EgoyMDI0MDkwOS4wIKXMDSoASAFQAw%3D%3D)). The venue for the SpaceHack is located in the Rahel Hirsch Center (Berlin Institute of Health) right next to the main Charite Hospital building.
+
+**Transport:** GoogleMaps offers very reasonable suggestions in Berlin. Some suggestions: 
+ - Airport: BER Berlin Brandenburg Aiport. There are trains (FEX/RE8/RB23/...) going to Berlin Hauptbahnhof (Berlin Central Station) every 20 minutes. Tickets can be downloaded via the [BVG app](https://www.bvg.de/de/abos-und-tickets/alle-apps/fahrinfo-app) and cost ~3-4 Euro for a Berlin ABC ticket.
+ - Train station: Berlin Hauptbahnhof (Berlin Central Station) and walk for 12 minutes, or take the tram M5/M8/M10 to "Invalidenpark"
 
 **Contact:** for more information email Naveed Ishaque, [naveed.ishaque@bih-charite.de](mailto:naveed.ishaque@bih-charite.de)
 
-**Registration:** registration is free using [this webform](https://www.denbi.de/helpdesk?option=com_rsform&view=rsform&formId=7) before the deadline of 17.11.23. **The number of on-site participants is limited to 80 persons.** 
+**Registration:** registration is free using [this webform]([https://www.denbi.de/helpdesk?option=com_rsform&view=rsform&formId=7](https://forms.gle/SGXco5U2gVkP8p4x7)) before the deadline of 17.11.24. **The number of on-site participants is limited to 24 persons.** 
 
-**Costs:** registration for the BioHackathon is free, however, you will have to pay your own travel, food and accommodation expenses. de.NBI / ELIXIR Germany will pay expenses for lunch and drinks in the event.
+**Costs:** registration for the BioHackathon is free, however, you will have to pay your own travel, food and accommodation expenses. We will cover expenses for lunch and drinks in the event.
 
-**Accomodation:** please check the [ELIXIR Germany event page](https://www.denbi.de/de-nbi-events/1547-biohackathon-germany-2) for hotel recommendations.
+**Accomodation:** please check the usual hotel booking portals. [AO Hostels](https://www.aohostels.com/de/berlin/berlin-hauptbahnhof/) is the cheapest option closeby, but there are lots of options in the vicinty.
 
 **Organizing committee**: 
-1.	[Naveed Ishaque](mailto:naveed.ishaque@bih-charite.de), Berlin Institute of Health at the Charité, Germany. Naveed leads a bioinformatics research group with a strong focus on developing and applying computation methods to better understand spatially resolved transcriptomics data.<br>
-2.	[Brian Long](mailto:brianl@alleninstitute.org), Allen Institute for Brain Science, USA. Brian is a member of the Imaging Department at the Allen Institute with extensive experience in image and data analysis. He plays a driving role in the CZI funded SpaceTX consortia.<br>
-3.	[Ahmed Mahfouz](mailto:A.Mahfouz@tudelft.nl). Leiden UMC and TU Delft, Netherlands. Ahmed is an Assistant Professor leading a group that develops machine learning and statistical methods for high-throughput genomic data. They are interested in unraveling how genetic and environmental factors influence the molecular state of individual cells in normal and disease processes with applications in neuroscience and immunology.<br>
-4.	[Mark Robinson](mailto:mark.robinson@mls.uzh.ch). University of Zurich, Switzerland. Mark is a Professor leading a group that develops statistical methods for interpreting high-throughput sequencing and other genomics technologies in areas such as genome sequencing, gene expression, and regulation and analysis of epigenomes.<be>
-5.	Charlotte Soneson. Friedrich Miescher Institute for Biomedical Research, Switzerland. Charlotte is a research associate in the Computation Biology Platform at the FMI and is highly experienced in the analysis of transcriptomics data and benchmarking studies.
-6.	Teresa Zulueta-Coarasa. EBI, UK. Teresa is a bioinformatician at the [BioImage Archive](https://www.ebi.ac.uk/bioimage-archive/) and has multi-disciplinary experience in microscopy, quantitative image analysis, data management, and cell biology. Currently, she is working on improving open access to biological images and annotations to accelerate the development of AI methods. 
-7.	Christoph Kuppe. RWTH Aachen University, Germany. Christoph leads the lab of Quantitative Cell Dynamics and Systems Biology whose goal is to integrate computational tools and novel technologies to enable unprecedented insights into molecular signaling circuits of cells in healthy and diseased tissues. 
-8.	Michael Fletcher. Mike is a senior editor at Nature Genetics, Senior editor. Previously, Mike was a Postdoctoral Fellow in the Division of Molecular Genetics at the German National Cancer Research Centre (DKFZ). He ran computational analyses on high-throughput sequencing data generated for a variety of genomics projects studying the biology of adult glioblastoma, a late-stage brain cancer with an extremely poor prognosis for patients.
-9.	George Gavriilidis. George is a pharmacologist/Post-Doc research working in the Biodata analysis group in INAB, CERTH (F. Psomopoulos Group) focusing on single-cell RNA analyses. He is also interested in Systems Immunology (maturation of B cells in health and disease), interpretable Machine Learning in scRNA-seq analysis and Systems Pharmacology approaches (hit identification, drug repurposing) based on single-cell multi-omics.
+1.	[Naveed Ishaque](mailto:naveed.ishaque@bih-charite.de), Berlin Institute of Health at the Charité, Germany. Naveed leads a bioinformatics research group with a strong focus on developing and applying computation methods to better understand spatially resolved transcriptomics data.<br>ated for a variety of genomics projects studying the biology of adult glioblastoma, a late-stage brain cancer with an extremely poor prognosis for patients.
+2.	...
+
+**Commercial sponsors**: We are proud to say that 10x, NanoString/Bruker and Vizgen are all contributing data, personell and financial support to SpaceHack 3.0!
 
 ### Code of Conduct
 The ELIXIR Germany Code of Conduct has been created so all participants at ELIXIR Germany events organized can interact with each other in a respectful and safe environment, and have avenues to turn to in case they believe there has been a breach to this Code of Conduct.
