@@ -1,6 +1,6 @@
 ---
 layout: page
-title: past events
+title: Past Events
 ---
 # 2023
 
