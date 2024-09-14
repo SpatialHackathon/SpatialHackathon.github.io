@@ -27,6 +27,7 @@ The focus of our BioHackathon project will be on investigating, reporting, and i
  - writing user guides for data deposition
  - collating and unifying steps within data analysis user guides
  - investigating how people deal with normalisation
+ - review segmentation-free analysis workflows
 
 While the primary aim of the project will be to have fun and meet other spatial researchers, we would endeavour to disseminate our findings. This year we plan to wrap up our progress into a [BioHackRxiv](https://osf.io/preprints/biohackrxiv) white paper.
 
