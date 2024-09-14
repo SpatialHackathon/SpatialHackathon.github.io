@@ -33,7 +33,7 @@ While the primary aim of the project will be to have fun and meet other spatial 
 
 ### Organisational details
 
-**Target audience:** PhD/postdoc-level bioinformaticians familiar with spatial omics analysis. We would strongly encourage those with prior experience in spatial clustering/domain identification to apply! **This will not be a tutorial, so be ready to contribute ;p.**
+**Target audience:** PhD/postdoc-level bioinformaticians familiar with spatial omics analysis. We would strongly encourage those with prior experience in spatial data analysis to apply! **This will not be a tutorial, so be ready to contribute ;p.**
 
 **Dates:** Monday 9th - Wednesday 11th December 2024. The event precedes the [European Society for Spatial Biology's inaugural conference](https://spatialbiologysociety.eu/) on 12-13 Dec. 
 
