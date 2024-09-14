@@ -18,7 +18,7 @@ title: Home
 
 ### Abstract
 
-Spatially resolved transcriptomics allows us to resolve gene expression in the native tissue context. Imagning-based spatial transcriptomics methods offer unrivaled spatial resolution, however clear and agreed-upon data processing and analysis guides are lacking or fragmented. SpaceHack 3.0 aims to investigate and improve on the currently available information to help users make sense of their valuable data. 
+Spatially resolved transcriptomics allows us to resolve gene expression in the native tissue context. Imagning-based spatial transcriptomics methods offer unrivaled spatial resolution, however clear and agreed-upon data processing and analysis guides are lacking or fragmented. SpaceHack 3.0 aims to investigate and improve on the currently available information to help users make sense of their valuable data. We will focus on **imaging-based spatial transcriptomics** methods such as MERFISH, ISS, osmFiSH, STARmap, etc (**not** Visium, GeoMX, slide-seq, stereoseq, ...).
 
 ### Project focus
 
