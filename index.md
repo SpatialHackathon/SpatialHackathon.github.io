@@ -8,7 +8,7 @@ title: Home
 <img width="1239" alt="spacehack3_logo" src="https://github.com/user-attachments/assets/217a34ca-40d0-4d64-a73f-016e21c76a1a">
 
 <p align="center">
-⬤ <b> 9-11 December 2024</b> ⬤ <b>Berlin|Germany (... Adelaide|Australia & Boston|USA)</b> ⬤ <b>Hybrid event</b> ⬤
+⬤ <b> 9-11 December 2024</b> ⬤ <b><a href="https://www.google.com/maps/place/Luisenstra%C3%9Fe+65,+10115+Berlin/@52.526864,13.376844,16z/data=!3m1!4b1!4m6!3m5!1s0x47a851ead44e366b:0xa6f8722630c14a29!8m2!3d52.526864!4d13.3794189!16s%2Fg%2F11c26_hb91?entry=ttu&g_ep=EgoyMDI0MDkwOS4wIKXMDSoASAFQAw%3D%3D">Berlin|Germany</a> (... Adelaide|Australia & Boston|USA)</b> ⬤ <b>Hybrid event</b> ⬤
 </p>
 <p align="center">
   <b><a href="https://forms.gle/SGXco5U2gVkP8p4x7">>> Register here <<</a></b>
