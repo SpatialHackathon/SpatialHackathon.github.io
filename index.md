@@ -11,7 +11,7 @@ title: Home
 ⬤ <b> 9-11 December 2024</b> ⬤ <b>Berlin|Germany (... Adelaide|Australia & Boston|USA)</b> ⬤ <b>Hybrid event</b> ⬤
 </p>
 <p align="center">
-  <b><a href="[https://www.denbi.de/helpdesk?option=com_rsform&view=rsform&formId=7](https://forms.gle/SGXco5U2gVkP8p4x7)">>> Register here <<</a></b>
+  <b><a href="https://forms.gle/SGXco5U2gVkP8p4x7">>> Register here <<</a></b>
 </p>
 
 <b>This website is currently a pre-release. The content may be inaccurate and change at any time.</b>
