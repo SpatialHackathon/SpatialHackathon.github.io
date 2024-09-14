@@ -62,5 +62,6 @@ We want the hackathon to be fun, safe and inclusive. Participants are expected t
 
 We will continue to update this website until the start of the hackathon
 
-![image](https://github.com/user-attachments/assets/171da3d7-a349-4352-bb02-a57d74b3adb7)
+![image](https://github.com/user-attachments/assets/1ef4d704-7b12-4e83-833c-feb8b9e35faa)
+
 
