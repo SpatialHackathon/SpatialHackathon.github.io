@@ -8,7 +8,7 @@ title: Home
 <img width="1239" alt="spacehack3_logo" src="https://github.com/user-attachments/assets/ea8ea22a-f8ad-440d-bbd7-db9ac61696d7">
 
 <p align="center">
-⬤ <b>SpaceHack 3.0 </b> ⬤ <b> 9-11 December 2024</b> ⬤ <b>Berlin|Germany (... Adelaide|Australia & Boston|USA)</b> ⬤ <b>Hybrid event</b> ⬤
+⬤ <b> 9-11 December 2024</b> ⬤ <b>Berlin|Germany (... Adelaide|Australia & Boston|USA)</b> ⬤ <b>Hybrid event</b> ⬤
 </p>
 <p align="center">
   <b><a href="[https://www.denbi.de/helpdesk?option=com_rsform&view=rsform&formId=7](https://forms.gle/SGXco5U2gVkP8p4x7)">>> Register here <<</a></b>
