@@ -3,36 +3,58 @@ layout: page
 title: Schedule
 ---
 
-This hackathon will take place from **Monday 11th Dec - Friday 15th Dec 2022**. The timing of this event will be **Central European Time (CET)**.
+This hackathon will take place from **Monday 9th Dec - Wednesday 11th Dec 2024**. The timing of this event will be **Central European Time (CET)**. The event precedes the [European Society for Spatial Biology’s inaugural conference](https://spatialbiologysociety.eu/) on 12-13 Dec.
 
-**[Join everyday via Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_YWJhYTliNDItMDcyYS00NjZhLTkzMzAtNjE0MDFiMjFkYjU0%40thread.v2/0?context=%7b%22Tid%22%3a%22afe91939-923e-432c-bc66-cbc3ec18d02c%22%2c%22Oid%22%3a%221298273b-1298-4d92-a14b-894d7df2a533%22%7d)**
+**[Join everyday via Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NmE4NTU3YTEtYTZlNi00ZjU4LWI0NzItNjQ0N2JjOTAyYWE0%40thread.v2/0?context=%7b%22Tid%22%3a%22afe91939-923e-432c-bc66-cbc3ec18d02c%22%2c%22Oid%22%3a%221298273b-1298-4d92-a14b-894d7df2a533%22%7d)**
 <!--- 
 <a href="https://github.com/SpatialHackathon/SpaceHack2023_organisation/blob/main/presentations/template.pptx" download><img src="images/PPT_icon.png" alt="drawing" height="18"/></a>
 <a href="https://github.com/SpatialHackathon/SpaceHack2023_organisation/blob/main/presentations/template.pdf" download><img src="images/PDF_icon.png" alt="drawing" height="18"/></a>
 <a href="https://docs.google.com/presentation/d/1kBBME3s2fO3nO0-ImZb9o9cHI5mZpVOcAIJlAx2tZeA/edit?usp=sharing"><img src="images/google_slides_icon.png" alt="drawing" height="18"/></a>
 --->
-### Day 1: Monday 11th December 2023 [Times in CET and PST]
-11:00-13:00 [02:00-04:00]	Arrival and registration. Coffee from 12:00.<br>
-13:00-15:00 [04:00-06:00] 
-Introduction to the de.NBI Hackathon and 10-minute pitches for all projects 
-<a href="https://docs.google.com/presentation/d/1Gzndc58v0UcVupSItgrTs_TarrDwtEPYVmbBNdVTYdU/edit"><img src="images/google_slides_icon.png" alt="drawing" height="18"/></a>
-, [Zoom link](https://uni-bielefeld.zoom-x.de/j/62068208790?pwd=N3NmcW1uc1M5SFRYbDRROWJkcENFdz09).<br>
-15:00-15:30 [06:00-06:30]	Break<br>
-15:30-18:00 [06:30-09:00]	General introductory talks <br>
- - 15:30 [06:30]
+### Day 1: Monday 9th December 2024 [Times in CET]
+10:00-10:30	Arrival and coffee - make your way to the [Esther Lederberg conference room on floor 2 room 328](https://www.google.com/maps/place/Luisenstra%C3%9Fe+65,+10115+Berlin/@52.526864,13.376844,16z/data=!3m1!4b1!4m6!3m5!1s0x47a851ead44e366b:0xa6f8722630c14a29!8m2!3d52.526864!4d13.3794189!16s%2Fg%2F11c26_hb91?entry=ttu&g_ep=EgoyMDI0MDkwOS4wIKXMDSoASAFQAw%3D%3D) <br>
+10:30-11:00 Welcome and introduction SpaceHack |
+<a href="" ><img src="images/google_slides_icon.png" alt="drawing" height="12"/></a> 
+<a href=""><img src="images/recording_icon.png" alt="drawing" height="12"/></a> |
+*Naveed Ishaque, Berin Institute of Health*<br>
+
+11:00-11:15 Talk title | 
+<a href="" ><img src="images/google_slides_icon.png" alt="drawing" height="12"/></a> 
+<a href=""><img src="images/recording_icon.png" alt="drawing" height="12"/></a> |
+*Speaker, Affiliation*<br>
+
+11:15-11:30 Talk title | 
+<a href="" ><img src="images/google_slides_icon.png" alt="drawing" height="12"/></a> 
+<a href=""><img src="images/recording_icon.png" alt="drawing" height="12"/></a> |
+*Speaker, Affiliation*<br>
+
+11:30-11:45 Talk title | 
+<a href="" ><img src="images/google_slides_icon.png" alt="drawing" height="12"/></a> 
+<a href=""><img src="images/recording_icon.png" alt="drawing" height="12"/></a> |
+*Speaker, Affiliation*<br>
+
+11:30-11:45 Talk title | 
+<a href="" ><img src="images/google_slides_icon.png" alt="drawing" height="12"/></a> 
+<a href=""><img src="images/recording_icon.png" alt="drawing" height="12"/></a> |
+*Speaker, Affiliation*<br>
+
+12:00-13:00	**Lunch** <br>
+
+15:30-18:00	General introductory talks <br>
+ - 15:30 
  General introduction 
-<a href="https://docs.google.com/presentation/d/1_mO_sVbjfhnx-lOnkvsOCAcJQ0HtBkDuYlVCpMRs6zY/edit" ><img src="images/google_slides_icon.png" alt="drawing" height="18"/></a>
-<a href="https://charitede-my.sharepoint.com/:v:/g/personal/naveed_ishaque_bih-charite_de/ES6Ey4vTJtpHlYOaR53CytgBQrSvyos2stTIKG6XhpxFzA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=caYYTL"><img src="images/recording_icon.png" alt="drawing" height="18"/></a>
+<a href="" ><img src="images/google_slides_icon.png" alt="drawing" height="18"/></a>
+<a href=""><img src="images/recording_icon.png" alt="drawing" height="18"/></a>
 , *Naveed Ishaque, BIH*<br>
  - 16:00 [07:00] 
  SpaceHack cloud 
-<a href="https://docs.google.com/presentation/d/1NQgcnnsTXL7gDmBN72E1iOwkibsCxkAco7QHDJUsnJ4/edit" ><img src="images/google_slides_icon.png" alt="drawing" height="18"/></a>
-<a href="https://charitede-my.sharepoint.com/:v:/g/personal/naveed_ishaque_bih-charite_de/EVcsys3hXEpDinVqEeRIlc0BjMIKal1EWkddreDNOZJYKA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=qDkZIF"><img src="images/recording_icon.png" alt="drawing" height="18"/></a>
+<a href="" ><img src="images/google_slides_icon.png" alt="drawing" height="18"/></a>
+<a href=""><img src="images/recording_icon.png" alt="drawing" height="18"/></a>
 , *Naveed Ishaque, BIH* <br>
  - 17:00 [08:00] 
  SpaceHack Interfaces
-<a href="https://docs.google.com/presentation/d/1l-q65j5F3TUI-3Uh7mv1KMfpsJvr6Ha-TsDXvC0-YbY/edit" ><img src="images/google_slides_icon.png" alt="drawing" height="18"/></a>
-<a href="https://charitede-my.sharepoint.com/:v:/g/personal/naveed_ishaque_bih-charite_de/EUh3uDs-1ONNk5qDWs0PabgBoXLP0LkyVQvlQaMQPPwbeQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=HeKi5e"><img src="images/recording_icon.png" alt="drawing" height="18"/></a>
+<a href="" ><img src="images/google_slides_icon.png" alt="drawing" height="18"/></a>
+<a href=""><img src="images/recording_icon.png" alt="drawing" height="18"/></a>
 , *Niklas Mueller-Boetticher, BIH*<br>
  - 17:20 [08:20]
 Spatial Datasets, *Meghan Turner 
@@ -53,7 +75,7 @@ Evaluations and metrics
 18:30-20:00 [09:30-11:00]	Christmas Market Visit<br>
 20:00-24:00 [11:00-15:00] Evening at free disposal<br>
 
-### Day 2: Tuesday 12th December 2023 
+### Day 2: Tuesday 10th December 2024
 
 09:00-09:30 [00:00-00:30]
 Recap and assignment/volunteering of/for tasks/call for sub-leads, *Naveed Ishaque, BIH*<br>
@@ -77,7 +99,7 @@ Continuous community benchmarking using OMNIBENCHMARK
 18:00-20:00	[09:00-11:00] Bowling at [The Strike](https://maps.app.goo.gl/pmiN62Cz7D8GkVHV7)<br>
 20:00-21:00	[11:00-12:00] Evening as free disposal<br>
 
-### Day 3: Wednesday 13th December 2023 
+### Day 3: Wednesday 11th December 2024 
 
 09:00-09:30	[00:00-00:30] <b>Plenary (EU/Asia)</b><br>
 09:30-12:00	[00:30-03:00] Hacking<br>
@@ -89,22 +111,3 @@ Continuous community benchmarking using OMNIBENCHMARK
 17:00-20:00	[08:00-11:00] Visit to the [Dr. Oetker World](https://maps.app.goo.gl/p4D4pokx4tc2AdS59)<br>
 20:00-21:00	[11:00-12:00] Evening as free disposal<br>
 
-### Day 4: Thursday 14th December 2023 
-
-09:00-10:00	[00:00-01:00] <b>Extended Plenary - share your thoughts about benchmarking (EU/Asia)</b><br>
-09:15-09:30 [00:15-00:30] <b>Guest lecture: [SpatialData](https://www.biorxiv.org/content/10.1101/2023.05.05.539647v1), Josh Moore, German Bioimaging </b><br>
-10:00-12:00	[01:00-03:00] Hacking<br>
-12:00-13:00	[03:00-04:00] Lunch<br>
-13:00-15:30	[04:00-06:30] Hacking<br>
-15:00-15:05 [06:00-06:05] <b>Geust lecture: [The Global Alliance for Spatial Technologies (GESTALT)](https://twitter.com/GESTALT_sp), Ioannis Vlachos, Harvard. [ZOOM link](https://us04web.zoom.us/j/9707085443?pwd=ZlBPTDRrRDFWMHFUNHhlbFJsY1Q0UT09)</b><br>
-15:30-16:00	[06:30-07:00] Break<br>
-16:00-17:00	[07:00-08:00] Hacking<br>
-17:00-18:00	[08:00-09:00] <b>Extended Plenary - share your thoughts about benchmarking  (EU/US)</b><br>
-18:00-20:00 [09:00-11:00] <b>*Gin and Tonic tasting*</b><br>
-20:00-00:00	[11:00-15:00] After Hack Party at [Stereo Bielefeld](https://maps.app.goo.gl/oo7bH33V8NMiYStu5)<br>
-
-### Day 5: Friday 15th December 2023 
-
-09:00-10:00	[00:00-01:00]	Hacking/Presentation preparation<br>
-10:00-12:00	[01:00-03:00]	<b>Final reporting from projects</b>. [Zoom link](https://uni-bielefeld.zoom-x.de/j/64187671996?pwd=Ukc0c2xGUnhBQk1aT0JkRjBHWDZEdz09).<br>
-12:00 [04:00]	Departure<br>
