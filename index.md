@@ -11,7 +11,7 @@ title: Home
 ⬤ <b> 9-11 December 2024</b> ⬤ <b><a href="https://www.google.com/maps/place/Luisenstra%C3%9Fe+65,+10115+Berlin/@52.526864,13.376844,16z/data=!3m1!4b1!4m6!3m5!1s0x47a851ead44e366b:0xa6f8722630c14a29!8m2!3d52.526864!4d13.3794189!16s%2Fg%2F11c26_hb91?entry=ttu&g_ep=EgoyMDI0MDkwOS4wIKXMDSoASAFQAw%3D%3D">Berlin|Germany</a> (... Adelaide|Australia & Boston|USA)</b> ⬤ <b>Hybrid event</b> ⬤
 </p>
 <p align="center">
-  <b><a href="https://forms.gle/SGXco5U2gVkP8p4x7">>> Register is not yet open! <<</a></b>
+  <b><a href="">>> Register is not yet open! <<</a></b>
 </p>
 
 <b>This website is currently a pre-release. The content may be inaccurate and change at any time.</b>
@@ -45,7 +45,7 @@ While the primary aim of the project will be to have fun and meet other spatial 
 
 **Contact:** for more information email Naveed Ishaque, [naveed.ishaque@bih-charite.de](mailto:naveed.ishaque@bih-charite.de)
 
-**Registration is not yet open:** registration is free using [this webform](https://forms.gle/RFHCMBgvyRWMgjSQ8) before the deadline of 17.11.24. **The number of on-site participants is limited to 24 persons.** 
+**Registration is not yet open:** registration is free using [this webform]() before the deadline of 17.11.24. **The number of on-site participants is limited to 24 persons.** 
 
 **Costs:** registration for the hackathon is free, however, you will have to pay your own travel, food and accommodation expenses. We will cover lunch and drinks during the event.
 
