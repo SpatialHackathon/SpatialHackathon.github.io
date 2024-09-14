@@ -12,7 +12,7 @@ This hackathon will take place from **Monday 9th Dec - Wednesday 11th Dec 2024**
 <a href="https://docs.google.com/presentation/d/1kBBME3s2fO3nO0-ImZb9o9cHI5mZpVOcAIJlAx2tZeA/edit?usp=sharing"><img src="images/google_slides_icon.png" alt="drawing" height="18"/></a>
 --->
 ### Day 1: Monday 9th December 2024 [Times in CET]
-10:00-10:30	Arrival and coffee - make your way to the [Esther Lederberg conference room on floor 2 room 328](https://www.google.com/maps/place/Luisenstra%C3%9Fe+65,+10115+Berlin/@52.526864,13.376844,16z/data=!3m1!4b1!4m6!3m5!1s0x47a851ead44e366b:0xa6f8722630c14a29!8m2!3d52.526864!4d13.3794189!16s%2Fg%2F11c26_hb91?entry=ttu&g_ep=EgoyMDI0MDkwOS4wIKXMDSoASAFQAw%3D%3D) <be>
+10:00-10:30	Arrival and coffee - [Esther Lederberg conference room, floor 2 room 328](https://www.google.com/maps/place/Luisenstra%C3%9Fe+65,+10115+Berlin/@52.526864,13.376844,16z/data=!3m1!4b1!4m6!3m5!1s0x47a851ead44e366b:0xa6f8722630c14a29!8m2!3d52.526864!4d13.3794189!16s%2Fg%2F11c26_hb91?entry=ttu&g_ep=EgoyMDI0MDkwOS4wIKXMDSoASAFQAw%3D%3D) <be>
 
 10:30-11:00 Welcome and introduction SpaceHack |
 <a href="" ><img src="images/google_slides_icon.png" alt="drawing" height="12"/></a> 
