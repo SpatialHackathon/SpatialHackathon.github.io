@@ -5,7 +5,7 @@ title: Home
 
 <b>This website is currently a pre-release. The content may be inaccurate and change at any time.</b>
 
-<img width="1239" alt="spacehack3_logo" src="https://github.com/user-attachments/assets/ea8ea22a-f8ad-440d-bbd7-db9ac61696d7">
+<img width="1239" alt="spacehack3_logo" src="https://github.com/user-attachments/assets/217a34ca-40d0-4d64-a73f-016e21c76a1a">
 
 <p align="center">
 ⬤ <b> 9-11 December 2024</b> ⬤ <b>Berlin|Germany (... Adelaide|Australia & Boston|USA)</b> ⬤ <b>Hybrid event</b> ⬤
@@ -62,6 +62,6 @@ We want the hackathon to be fun, safe and inclusive. Participants are expected t
 
 We will continue to update this website until the start of the hackathon
 
-![image](https://github.com/user-attachments/assets/1ef4d704-7b12-4e83-833c-feb8b9e35faa)
+![image](https://github.com/user-attachments/assets/9790202e-e4b9-4576-bd5f-6171459a4a21)
 
 
