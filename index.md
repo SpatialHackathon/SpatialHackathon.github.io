@@ -52,7 +52,7 @@ While the primary aim of the project will be to have fun and meet other spatial 
 **Accommodation:** please check the usual hotel booking portals. [AO Hostels](https://www.aohostels.com/de/berlin/berlin-hauptbahnhof/) is a cheap option closeby, but there are many options in the vicinity.
 
 **Organizing committee**: 
-1.	[Naveed Ishaque](mailto:naveed.ishaque@bih-charite.de), Berlin Institute of Health at the Charité, Germany. Naveed leads a bioinformatics research group with a strong focus on developing and applying computation methods to better understand spatially resolved transcriptomics data.<br>ated for a variety of genomics projects studying the biology of adult glioblastoma, a late-stage brain cancer with an extremely poor prognosis for patients.
+1.	[Naveed Ishaque](mailto:naveed.ishaque@bih-charite.de), Berlin Institute of Health at the Charité, Germany. Naveed leads a bioinformatics research group with a strong focus on developing and applying computation methods to better understand spatially resolved transcriptomics data.
 2.	...
 
 **Commercial sponsors**: We are proud to say that 10x, NanoString/Bruker and Vizgen are all contributing data, personnel and financial support to SpaceHack 3.0!
