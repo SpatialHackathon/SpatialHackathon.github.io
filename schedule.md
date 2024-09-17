@@ -48,7 +48,7 @@ This hackathon will take place from **Monday 9th Dec - Wednesday 11th Dec 2024**
 16:20-16:40 Problems faced at the Allen Institute for Brain Science | 
 <a href="" ><img src="images/google_slides_icon.png" alt="drawing" height="12"/></a> 
 <a href=""><img src="images/recording_icon.png" alt="drawing" height="12"/></a> |
-*Brian Long, Allen Institute for Brain Science*<br>
+*Speaker TBC*<br>
 16:40-17:00 USA alignment - quick overview of GitHub, Cloud, and projects <br>
 17:00-18:00 *Free time* <br>
 18:00-20:00	Evening activity sponsored by *Company XYZ*, Location <br>
@@ -57,17 +57,17 @@ This hackathon will take place from **Monday 9th Dec - Wednesday 11th Dec 2024**
 ### Day 2: Tuesday 10th December 2024
 
 09:00-09:30 Alignment with Australia + project recap<br>
-09:30-10:00 Where should spatial data be deposited? The EBI BioImageArchive | 
+09:30-10:00 Where should spatial data be deposited? | 
 <a href="" ><img src="images/google_slides_icon.png" alt="drawing" height="12"/></a> 
 <a href=""><img src="images/recording_icon.png" alt="drawing" height="12"/></a> |
-*Teresa Zulueta Coarasa, EBI BioImage Archive*<br>
+*Speaker TBC*<br>
 10:00-12:00 Hacking (inc coffee break)<br>
 12:00-13:00 Lunch<br>
 13:00-13:15 Group photo<br> 
-13:15-13:30 Cell segmentation - the past, present & future | 
+13:15-13:30 Cell segmentation from commercial platofmr - the past, present & future | 
 <a href="" ><img src="images/google_slides_icon.png" alt="drawing" height="12"/></a> 
 <a href=""><img src="images/recording_icon.png" alt="drawing" height="12"/></a> |
-*Thomas Conrad and Naveed Ishaque, Berlin Institute of Health*<br>
+*TBC*<br>
 13:30-15:30	Hacking<br>
 15:30-16:00	Break<br>
 16:00-17:30 Hacking<br>
