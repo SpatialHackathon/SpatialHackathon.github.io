@@ -16,6 +16,8 @@ title: Home
 
 <b>This website is currently a pre-release. The content may be inaccurate and change at any time.</b>
 
+[SpaceHack is now an official a BioHackathon Germany event](https://www.denbi.de/de-nbi-events/1678-biohackathon-germany-3)!
+
 ### Abstract
 
 Spatially resolved transcriptomics allows us to resolve gene expression in the native tissue context. Imaging-based spatial transcriptomics methods offer an unrivaled spatial resolution, however clear and agreed-upon data processing and analysis guides are lacking or fragmented. SpaceHack 3.0 aims to investigate and improve on the currently available information to help users make sense of their valuable data. We will focus on **imaging-based spatial transcriptomics** methods such as MERFISH, ISS, osmFiSH, STARmap, etc (**not** Visium, GeoMX, slide-seq, stereoseq, ...).
