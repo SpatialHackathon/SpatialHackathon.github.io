@@ -20,10 +20,10 @@ This hackathon will take place from **Monday 9th Dec - Wednesday 11th Dec 2024**
 <a href="" ><img src="images/google_slides_icon.png" alt="drawing" height="12"/></a> 
 <a href=""><img src="images/recording_icon.png" alt="drawing" height="12"/></a> |
 *Naveed Ishaque, Berin Institute of Health*<br>
-11:00-11:15 GESTALT - The Global Alliance for Spatial Technologies (T.B.C) | 
+11:00-11:15 Talk - TBC | 
 <a href="" ><img src="images/google_slides_icon.png" alt="drawing" height="12"/></a> 
 <a href=""><img src="images/recording_icon.png" alt="drawing" height="12"/></a> |
-*Luciano Martelotto, Adelaide Centre for Epigenetics*<br>
+*speaker TBC*<br>
 11:15-11:30 Sponsor talk 1 - tech, data, project pitch | 
 <a href="" ><img src="images/google_slides_icon.png" alt="drawing" height="12"/></a> 
 <a href=""><img src="images/recording_icon.png" alt="drawing" height="12"/></a> |
@@ -50,8 +50,16 @@ This hackathon will take place from **Monday 9th Dec - Wednesday 11th Dec 2024**
 <a href=""><img src="images/recording_icon.png" alt="drawing" height="12"/></a> |
 *Speaker TBC*<br>
 16:40-17:00 USA alignment - quick overview of GitHub, Cloud, and projects <br>
-17:00-18:00 *Free time* <br>
-18:00-20:00	Evening activity sponsored by *Company XYZ*, Location <br>
+17:00-17:15 Talk - The European Society for Spatial Biology | 
+<a href="" ><img src="images/google_slides_icon.png" alt="drawing" height="12"/></a> 
+<a href=""><img src="images/recording_icon.png" alt="drawing" height="12"/></a> |
+*[Denis Schapiro](https://www.schapirolab.com/), Heidelberg University Hospital* <br>
+17:15-17:30 Talk - TBC | 
+<a href="" ><img src="images/google_slides_icon.png" alt="drawing" height="12"/></a> 
+<a href=""><img src="images/recording_icon.png" alt="drawing" height="12"/></a> |
+*speaker TBC*<br>
+17:30-18:30 *Free time* <br>
+18:30-20:00	Evening activity sponsored by *Company XYZ*, Location <br>
 20:00-22:00 Dinner sponsored by *Company XYZ*, Location <br>
 
 ### Day 2: Tuesday 10th December 2024
@@ -64,7 +72,7 @@ This hackathon will take place from **Monday 9th Dec - Wednesday 11th Dec 2024**
 10:00-12:00 Hacking (inc coffee break)<br>
 12:00-13:00 Lunch<br>
 13:00-13:15 Group photo<br> 
-13:15-13:30 Cell segmentation from commercial platofmr - the past, present & future | 
+13:15-13:30 Cell segmentation from commercial platforms - the past, present & future | 
 <a href="" ><img src="images/google_slides_icon.png" alt="drawing" height="12"/></a> 
 <a href=""><img src="images/recording_icon.png" alt="drawing" height="12"/></a> |
 *TBC*<br>
