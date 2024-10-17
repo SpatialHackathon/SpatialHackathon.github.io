@@ -20,7 +20,10 @@ This hackathon will take place from **Monday 9th Dec - Wednesday 11th Dec 2024**
 <a href="" ><img src="images/google_slides_icon.png" alt="drawing" height="12"/></a> 
 <a href=""><img src="images/recording_icon.png" alt="drawing" height="12"/></a> |
 *Naveed Ishaque, Berin Institute of Health*<br>
-11:00-11:15 Talk - TBC | 
+13:15-13:30 Cell segmentation from commercial platforms - the past, present & future | 
+<a href="" ><img src="images/google_slides_icon.png" alt="drawing" height="12"/></a> 
+<a href=""><img src="images/recording_icon.png" alt="drawing" height="12"/></a> |
+*Thomas Conrad, Team lead for single-cell and spatial genomics, Berin Institute of Health*<be>
 <a href="" ><img src="images/google_slides_icon.png" alt="drawing" height="12"/></a> 
 <a href=""><img src="images/recording_icon.png" alt="drawing" height="12"/></a> |
 *speaker TBC*<br>
@@ -72,11 +75,7 @@ This hackathon will take place from **Monday 9th Dec - Wednesday 11th Dec 2024**
 10:00-12:00 Hacking (inc coffee break)<br>
 12:00-13:00 Lunch<br>
 13:00-13:15 Group photo<br> 
-13:15-13:30 Cell segmentation from commercial platforms - the past, present & future | 
-<a href="" ><img src="images/google_slides_icon.png" alt="drawing" height="12"/></a> 
-<a href=""><img src="images/recording_icon.png" alt="drawing" height="12"/></a> |
-*TBC*<br>
-13:30-15:30	Hacking<br>
+13:15-15:30	Hacking<br>
 15:30-16:00	Break<br>
 16:00-17:30 Hacking<br>
 17:30-18:00 Alignment with USA<br>
