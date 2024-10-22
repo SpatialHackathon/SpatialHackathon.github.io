@@ -53,10 +53,10 @@ This hackathon will take place from **Monday 9th Dec - Wednesday 11th Dec 2024**
 <a href="" ><img src="images/google_slides_icon.png" alt="drawing" height="12"/></a> 
 <a href=""><img src="images/recording_icon.png" alt="drawing" height="12"/></a> |
 *[Denis Schapiro](https://www.schapirolab.com/), Heidelberg University Hospital* <br>
-17:15-17:30 Problems faced at the Allen Institute for Brain Science | 
+17:15-17:30 Uniformity of gene expression over tissues | 
 <a href="" ><img src="images/google_slides_icon.png" alt="drawing" height="12"/></a> 
 <a href=""><img src="images/recording_icon.png" alt="drawing" height="12"/></a> |
-*Speaker TBC*<br>
+*Brian Long, Allen Inst for Brain Science*<br>
 17:30-18:30 *Free time* <br>
 18:30-20:00	Evening activity sponsored by *Company XYZ*, Location <br>
 20:00-22:00 Dinner sponsored by *Company XYZ*, Location <br>
