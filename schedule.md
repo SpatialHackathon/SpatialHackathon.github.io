@@ -64,7 +64,7 @@ This hackathon will take place from **Monday 9th Dec - Wednesday 11th Dec 2024**
 ### Day 2: Tuesday 10th December 2024
 
 09:00-09:30 Alignment with Australia + project recap<br>
-09:30-10:00 Where should spatial data be deposited? | 
+09:30-10:00 The EBI BioImage Archive for Spatial Transcriptomics | 
 <a href="" ><img src="images/google_slides_icon.png" alt="drawing" height="12"/></a> 
 <a href=""><img src="images/recording_icon.png" alt="drawing" height="12"/></a> |
 *Teresa Zulueta-Coarasa, EBI BioImage Archive*<br>
