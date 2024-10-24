@@ -57,9 +57,9 @@ This hackathon will take place from **Monday 9th Dec - Wednesday 11th Dec 2024**
 <a href="" ><img src="images/google_slides_icon.png" alt="drawing" height="12"/></a> 
 <a href=""><img src="images/recording_icon.png" alt="drawing" height="12"/></a> |
 *[Denis Schapiro](https://www.schapirolab.com/), Heidelberg University Hospital* <br>
-17:30-18:30 *Free time* <br>
-18:30-20:00	Evening activity sponsored by *Company XYZ*, Location <br>
-20:00-22:00 Dinner sponsored by *Company XYZ*, Location <br>
+18:15-19:00 *Free time* <br>
+19:00-20:00	*10x Genomics* sponsored evening event - ice curling, [Zollpackhof](https://zollpackhof.de/our-events-details/curling-at-the-zollpackhof.html), [Elisabeth-Abegg-Straße 1, 10557 Berlin](https://www.google.com/maps/place/Elisabeth-Abegg-Stra%C3%9Fe+1,+10557+Berlin,+Germany/@52.5211104,13.364165,17z/data=!3m1!4b1!4m6!3m5!1s0x47a851bc115fa917:0xeb792aeab8d338!8m2!3d52.5211104!4d13.3667399!16s%2Fg%2F11bw4c8q59?entry=ttu&g_ep=EgoyMDI0MTAyMS4xIKXMDSoASAFQAw%3D%3D)<br>
+20:00-22:00 *10x Genomics* sponsored dinner, [Zollpackhof Restaurant](https://zollpackhof.de/the-restaurant.html),  [Elisabeth-Abegg-Straße 1, 10557 Berlin](https://www.google.com/maps/place/Elisabeth-Abegg-Stra%C3%9Fe+1,+10557+Berlin,+Germany/@52.5211104,13.364165,17z/data=!3m1!4b1!4m6!3m5!1s0x47a851bc115fa917:0xeb792aeab8d338!8m2!3d52.5211104!4d13.3667399!16s%2Fg%2F11bw4c8q59?entry=ttu&g_ep=EgoyMDI0MTAyMS4xIKXMDSoASAFQAw%3D%3D)<br>
 
 ### Day 2: Tuesday 10th December 2024
 
@@ -75,8 +75,8 @@ This hackathon will take place from **Monday 9th Dec - Wednesday 11th Dec 2024**
 15:30-16:00	Break<br>
 16:00-17:30 Hacking<br>
 17:30-18:00 Alignment with USA<br>
-18:00-20:00	Evening activity sponsored by *Company XYZ*, Location <br>
-20:00-22:00 Dinner sponsored by *Company XYZ*, Location <br>
+18:00-20:00	*Vizgen* sponsored evening event activity, TBC <br>
+20:00-22:00 *Vizgen* sponsored dinner activity, TBC  <br>
 
 ### Day 3: Wednesday 11th December 2024 
 
@@ -91,4 +91,3 @@ This hackathon will take place from **Monday 9th Dec - Wednesday 11th Dec 2024**
 17:00-18:00 Alignment with USA<br>
 18:00-20:00	Evening activity sponsored by *Company XYZ*, Location <br>
 20:00-22:00 Dinner sponsored by *Company XYZ*, Location <br>
-
