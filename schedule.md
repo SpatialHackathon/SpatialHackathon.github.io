@@ -47,16 +47,16 @@ This hackathon will take place from **Monday 9th Dec - Wednesday 11th Dec 2024**
 13:00-13:30 Stand up and pitch your projects<br>
 13:30-14:30 Match making - join project teams and start hacking<br>
 14:30-15:00 Coffee/tea break<br>
-15:00-16:30 Hacking!<br>
-16:30-17:00 USA alignment - quick overview of GitHub, Cloud, and projects <br>
-17:00-17:15 Talk - The European Society for Spatial Biology | 
-<a href="" ><img src="images/google_slides_icon.png" alt="drawing" height="12"/></a> 
-<a href=""><img src="images/recording_icon.png" alt="drawing" height="12"/></a> |
-*[Denis Schapiro](https://www.schapirolab.com/), Heidelberg University Hospital* <br>
+15:00-17:15 Hacking!<br>
 17:15-17:30 Uniformity of gene expression over tissues | 
 <a href="" ><img src="images/google_slides_icon.png" alt="drawing" height="12"/></a> 
 <a href=""><img src="images/recording_icon.png" alt="drawing" height="12"/></a> |
 *Brian Long, Allen Inst for Brain Science*<br>
+17:30-18:00 USA alignment - quick overview of GitHub, Cloud, and projects <br>
+18:00-18:15 Talk - The European Society for Spatial Biology | 
+<a href="" ><img src="images/google_slides_icon.png" alt="drawing" height="12"/></a> 
+<a href=""><img src="images/recording_icon.png" alt="drawing" height="12"/></a> |
+*[Denis Schapiro](https://www.schapirolab.com/), Heidelberg University Hospital* <br>
 17:30-18:30 *Free time* <br>
 18:30-20:00	Evening activity sponsored by *Company XYZ*, Location <br>
 20:00-22:00 Dinner sponsored by *Company XYZ*, Location <br>
